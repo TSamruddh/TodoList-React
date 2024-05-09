@@ -8,7 +8,7 @@ Welcome to the To-Do App! This is a simple application built using React.js that
 
 ## Live Demo
 [View live] https://your-live-website-link.com](https://sams-todolist-react.netlify.app/
-https://sams-todolist-react.netlify.app/
+
 
 ## Getting Started
 1. Clone the repository:
